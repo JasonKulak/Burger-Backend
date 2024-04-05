@@ -8,12 +8,20 @@
 - **Github URL: https://github.com/JasonKulak/Burger-Backend**
 
 **Mini-Project4**
-    - **Deployed Website:**
+    - **Deployed Website: https://burger-backend-tq53.onrender.com/**
 
 ## Dependencies -
-- React
-- React-Router
+- asgiref
+- dj-database-url
 - Django
+- django-cors-headers
+- django-environ
+- djangorestframework
+- gunicorn
+- packaging
+- psycopg2-binary
+- sqlparse
+- typing_extensions
 
 ## Route Map
 | Route Name  | Endpoint | Method | Description                 |
